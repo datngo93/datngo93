@@ -4,14 +4,15 @@
 :phone: +82-51-200-6967
 
 ## Research Interest
-- Digital image/video processing
-- SoC/VLSI architectures for real-time image/video processing
+- Digital image processing
 - Machine learning/Deep learning
+- Biodata and bioimage analysis
+- Brain-computer interface
 
 ## Others
-:telescope: I am currently working on ***real-time autonomous haze removal*** \
-:seedling: I am currently learning ***algorithm analysis and design*** \
-:dancers: I am looking to collaborate on projects pertinent to real-time image/video processing \
+:telescope: I am currently working on ***AI application in artificial insemination***, ***digital pathology image processing***, ***cell culture monitoring***, and ***highly multiplexed image processing*** \
+:seedling: I am currently learning ***R*** \
+:dancers: I am looking to collaborate on projects related to topics mentioned above \
 :zap: I love eating :poultry_leg: and drinking :beer: while watching documentaries.
 
 <!--
