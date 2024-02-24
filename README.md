@@ -1,6 +1,6 @@
 ### Dat Ngo :wave: :baby_chick: :dog:
 :e-mail: [ngodat9093@gmail.com](mailto:ngodat9093@gmail.com) \
-:computer: [http://www.datngokt.com/](http://www.datngokt.com/) \
+:computer: [https://datngo93.github.io/datngo](https://datngo93.github.io/datngo) \
 :phone: +82-51-200-6967
 
 ## Research Interest
@@ -13,7 +13,7 @@
 
 ## Others
 :telescope: I am currently working on ***blind image restoration***, ***digital pathology image processing***, and ***wet-AMD recurrence prediction*** \
-:seedling: I am currently learning ***VHDL*** \
+:seedling: I am currently practicing ***Korean*** \
 :dancers: I am looking to collaborate on projects related to topics mentioned above \
 :zap: I love eating :poultry_leg: and drinking :beer: while watching documentaries.
 
